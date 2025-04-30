@@ -1,3 +1,5 @@
+/* B7. Construct an expression tree from the given prefix expression eg. +--a*bc/def and
+traverse it using post order traversal (non recursive) and then delete the entire tree */
 #include <bits/stdc++.h>
 using namespace std;
 struct Node{    
